@@ -1,4 +1,4 @@
-# MBot de Monitoramento de SFTP/FTP com Relatórios via Telegram
+# Bot de Monitoramento de SFTP/FTP com Relatórios via Telegram
 
 Este projeto é um bot automatizado projetado para monitorar servidores SFTP e FTP de maneira eficiente. Ele verifica a integridade e a atividade dos servidores, como alterações em diretórios ou arquivos, problemas de conexão, e muito mais.
 
